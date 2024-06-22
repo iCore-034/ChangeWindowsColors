@@ -5,4 +5,4 @@
 <h4>Выбор цвета доступен по нажатию на соответствующую кнопку слева от блока с цветом.</h4>
 
 
-![Application Preview](./ApplicationPrev.png)
+![Application Preview](./Pictures/ApplicationPrev.png)
